@@ -1,5 +1,5 @@
 {
-  "packageId": "com.acostanavap13.avd",
+  "packageId": "io.github.acostanavap13.twa",
   "host": "acostanavap13.github.io",
   "name": "AI Video Director",
   "launcherName": "AVD",
@@ -13,8 +13,9 @@
   "backgroundColor": "#0F172A",
   "enableNotifications": true,
   "startUrl": "/Video-Prompt-Help/",
-  "iconUrl": "https://acostanavap13.github.io/Video-Prompt-Help/icons/icon-512.png",
-  "maskableIconUrl": "https://acostanavap13.github.io/Video-Prompt-Help/icons/icon-512-maskable.png",
+  "iconUrl": "https://raw.githubusercontent.com/AcostaNavaP13/Video-Prompt-Help/main/public/icons/icon-512.png",
+  "maskableIconUrl": "https://raw.githubusercontent.com/AcostaNavaP13/Video-Prompt-Help/main/public/icons/icon-512-maskable.png",
+  "monochromeIconUrl": "https://raw.githubusercontent.com/AcostaNavaP13/Video-Prompt-Help/main/public/icons/icon-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/workspaces/Video-Prompt-Help/twa-avd/android.keystore",

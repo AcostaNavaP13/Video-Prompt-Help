@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.acostanavap13.avd;
+package io.github.acostanavap13.twa;
 
 
 

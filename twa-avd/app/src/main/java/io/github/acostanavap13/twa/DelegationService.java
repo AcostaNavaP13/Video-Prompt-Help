@@ -1,4 +1,4 @@
-package com.acostanavap13.avd;
+package io.github.acostanavap13.twa;
 
 
 

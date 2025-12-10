@@ -21,7 +21,7 @@ plugins {
 }
 
 def twaManifest = [
-    applicationId: 'com.acostanavap13.avd',
+    applicationId: 'io.github.acostanavap13.twa',
     hostName: 'acostanavap13.github.io', // The domain being opened in the TWA.
     launchUrl: '/Video-Prompt-Help/', // The start path for the TWA. Must be relative to the domain.
     name: 'AI Video Director', // The application name.
@@ -52,9 +52,9 @@ def twaManifest = [
 
 android {
     compileSdkVersion 36
-    namespace "com.acostanavap13.avd"
+    namespace "io.github.acostanavap13.twa"
     defaultConfig {
-        applicationId "com.acostanavap13.avd"
+        applicationId "io.github.acostanavap13.twa"
         minSdkVersion 21
         targetSdkVersion 35
         versionCode 1
