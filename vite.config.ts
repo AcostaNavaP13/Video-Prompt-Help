@@ -3,8 +3,11 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import { VitePWA } from "vite-plugin-pwa";
 
+// Cambia esto si tu repo tiene otro nombre exacto
+const repoName = "Video-Prompt-Help";
+
 export default defineConfig({
-  base: "/Video-Prompt-Help/",
+  base: `/${repoName}/`,
   plugins: [
     react(),
     tailwindcss(),
